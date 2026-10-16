@@ -25,6 +25,6 @@ www.totalthreatdemovideo.com
 * Day 5: Documentation and case study packaging
 
 ## Key Accomplishments
-* Built NMG.com domain from scratch.
-* Designed department based ou-structure for the business.
-* Provisioned 15 user accounts with uniform naming conventions and mapped security groups to each department. 
+* Established the NMG.com domain in a virtualized lab and designed a structured Organizational Unit (OU) structure for Finance, HR, IT and Operations.
+* Created and configured 15 user accounts, organized departmental security groups, and applied role-based-access control.  
+* Investigated and corrected a user account placement error involving an employee incorrectly assigned to Operations instead of HR, verified the correction, and documented the resolution.
