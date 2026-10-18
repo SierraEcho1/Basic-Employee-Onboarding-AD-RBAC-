@@ -7,7 +7,7 @@ Northstar Medical Group is a fast-growing fictional healthcare organization that
 I built a functional Active Directory lab in a virtualized environment and established the NMG.com domain to provide Northstar Medical Group with centralized identity and access management. I designed a structured Organizational Unit (OU) hierarchy for Finance, HR, IT, and Operations, supported by security groups and a Role-Based Access Control (RBAC) model to organize permissions according to job responsibilities. I created and configured 15 user accounts, applying controlled access assignments to support consistent account provisioning and reduce the risk of unauthorized access. During testing, I investigated an incident ticket involving Jane Cooper, whose account had been incorrectly assigned to the Operations department instead of HR. I identified the misconfiguration, corrected her account placement, verified the resolution, and documented the incident to reinforce proper troubleshooting and IT documentation practices. These implementations established a more organized, secure, and manageable identity infrastructure for Northstar Medical Group.
 
 ## Video Walkthrough
-www.totalthreatdemovideo.com 
+https://www.loom.com/share/d6a4adffe32c4aa6aad0edddb81bbebe
 
 ## Tools Used
 * Windows Server
